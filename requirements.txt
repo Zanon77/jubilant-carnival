@@ -3,6 +3,7 @@ Flask
 Flask-Migrate
 Flask-RESTful
 Flask-Script
+flask-cors
 Flask-SQLAlchemy
 marshmallow
 PyMySQL
