@@ -1,0 +1,3 @@
+server.py -> port 5000
+
+common.js -> on port 5000 shows database value
