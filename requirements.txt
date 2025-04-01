@@ -5,6 +5,7 @@ Flask-RESTful
 Flask-Script
 flask-cors
 python-dotenv
+mysql-connector-python
 Flask-SQLAlchemy
 marshmallow
 PyMySQL
