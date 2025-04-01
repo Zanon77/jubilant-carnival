@@ -4,6 +4,7 @@ Flask-Migrate
 Flask-RESTful
 Flask-Script
 flask-cors
+python-dotenv
 Flask-SQLAlchemy
 marshmallow
 PyMySQL
